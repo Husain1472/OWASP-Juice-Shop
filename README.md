@@ -1,4 +1,4 @@
-# OWASP Juice Shop Penetration Testing Report
+# OWASP Juice Shop Penetration Testing
 
 ![OWASP Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png)
 
