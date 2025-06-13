@@ -21,7 +21,6 @@ A comprehensive security assessment of **OWASP Juice Shop**, a deliberately vuln
 - **Burp Suite Community** (Proxy/Repeater/Intruder)
 - **SQLMap** (Automated SQLi exploitation)
 - **Docker** (Juice Shop deployment)
-- **OWASP ZAP** (Alternative proxy tool)
 
 ## 🚀 Getting Started
 ### Prerequisites
